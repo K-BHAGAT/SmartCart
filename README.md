@@ -86,7 +86,7 @@ jupyter notebook
 
 ## Visualizations
 
-![Correlation Heatmap](heatmap.png)
+![Correlation Heatmap](SmartCart_heatmap.png)
 
 ## About
 
